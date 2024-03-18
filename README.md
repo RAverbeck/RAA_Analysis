@@ -30,8 +30,8 @@ Nach der Einleitung folgt nun die eigentliche Masterclass. Es geht um den nuklea
 
 ermitteln wollen. 
 
-[Hier klicken:](https://mybinder.org/v2/gh/NTW-Muenster/alice-mc-raa/HEAD?filepath=ALICE_RAA.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NTW-Muenster/alice-mc-raa/HEAD?filepath=ALICE_RAA.ipynb)
+[Hier klicken:](https://mybinder.org/v2/gh/RAverbeck/alice-mc-raa-eng/HEAD?filepath=ALICE_RAA_eng.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RAverbeck/alice-mc-raa-eng/HEAD?filepath=ALICE_RAA_eng.ipynb)
 
 (Alle benötigten Messdaten werden durch __binder__ automatisch geladen und sind dann im Jupyter-Notebook verfügbar).
 
