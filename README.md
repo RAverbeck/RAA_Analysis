@@ -4,7 +4,7 @@ The Masterclass consists of three parts:
 
 1) An introductory presentation on the physics of high-energy heavy-ion collisions and the obersavble to be measured
 
-2) A Jupyter notebook ([Dokumentation](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#notebook-user-interface)) with a brief introduction of the programming language __Python__ based on a few examples. Python is the language that is used in this Masterclass.
+2) A Jupyter notebook ([Documentation](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#notebook-user-interface)) with a brief introduction of the programming language __Python__ based on a few examples. Python is the language that is used in this Masterclass.
 
 3) The Masterclass itself, in which the nuclear modification factor R<sub>AA</sub> will be measured
 
