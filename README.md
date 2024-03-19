@@ -12,8 +12,8 @@ The Masterclass consists of three parts:
 
 The programming language __Python__ is introduced based on a few relevant examples. A click on the button ```launch binder``` loads the notebook
 
-[click here:](https://mybinder.org/v2/gh/NTW-Muenster/alice-mc-raa/HEAD?filepath=ALICE_RAA_Einleitung.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NTW-Muenster/alice-mc-raa/HEAD?filepath=ALICE_RAA_Einleitung.ipynb)
+[click here:](https://mybinder.org/v2/gh/RAverbeck/alice-mc-raa-eng/HEAD?filepath=ALICE_Python_Introduction.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RAverbeck/alice-mc-raa-eng/HEAD?filepath=ALICE_Python_Introduction.ipynb)
 
 
  (it takes a moment until the framework is loaded on __binder__ - please note that an inactivity for 10 minutes triggers a timeout. The framework has to be restarted then and one has to start from scratch.
