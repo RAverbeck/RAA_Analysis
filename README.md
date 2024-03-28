@@ -12,8 +12,8 @@ The Masterclass consists of three parts:
 
 The programming language __Python__ is introduced based on a few relevant examples. A click on the button ```launch binder``` loads the notebook
 
-[click here:](https://mybinder.org/v2/gh/RAverbeck/alice-mc-raa-eng/HEAD?filepath=ALICE_Python_Introduction.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RAverbeck/alice-mc-raa-eng/HEAD?filepath=ALICE_Python_Introduction.ipynb)
+[click here:](https://mybinder.org/v2/gh/RAverbeck/RAA_Analysis/HEAD?filepath=ALICE_Python_Introduction.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RAverbeck/RAA_Analysis/HEAD?filepath=ALICE_Python_Introduction.ipynb)
 
 
  (it takes a moment until the framework is loaded on __binder__ - please note that an inactivity for 10 minutes triggers a timeout. The framework has to be restarted then and one has to start from scratch.
@@ -28,8 +28,8 @@ In the actual Masterclass the nuclear modification factor R<sub>AA</sub> can be 
 * 40-50%
 * 70-80% 
 
-[click here:](https://mybinder.org/v2/gh/RAverbeck/alice-mc-raa-eng/HEAD?filepath=ALICE_RAA_eng.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RAverbeck/alice-mc-raa-eng/HEAD?filepath=ALICE_RAA_eng.ipynb)
+[click here:](https://mybinder.org/v2/gh/RAverbeck/RAA_Analysis/HEAD?filepath=ALICE_RAA_eng.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RAverbeck/RAA_Analysis/HEAD?filepath=ALICE_RAA_eng.ipynb)
 
 (All required ALICE data will be loaded from __binder__ automatically and are then available in the Jupyter notebook).
 
